@@ -2,7 +2,7 @@
 
 - I’m currently working on **exploratory data analysis and model benchmarking study on various datasets, also working with different LLM APIs and also models running on local machines**
 
-- I’m currently learning **ROS, Genetic algorithm and Swarm intelligence and anything that intrests me**
+- I’m currently learning **ROS, Genetic algorithm and Swarm intelligence and anything that tickles my tiny mind**
 
 - How to reach me **neverde616@gmail.com**
 
