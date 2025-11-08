@@ -1,4 +1,4 @@
-<h1 align="center">|| कर्म परम धर्म ||</h1>
+<h1 align="left">|| कर्म परम धर्म ||</h1>
 
 - I’m currently working on **exploratory data analysis and model benchmarking study on various datasets, also working with different LLM APIs and also models running on local machines**
 
