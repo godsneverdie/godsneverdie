@@ -7,7 +7,7 @@
 - How to reach me **neverde616@gmail.com**
 
 - **As of oct 2025, I have been coding for 7 years and didn't use GitHub for 6.8 years, sorry Linus Torvalds**
---------
+
 ##  Languages & Frameworks
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
