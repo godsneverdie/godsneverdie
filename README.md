@@ -3,7 +3,7 @@
 - I’m currently working on **exploratory data analysis and model benchmarking study on various datasets, also working with different LLM APIs and also models running on local machines**
 - I’m currently learning **ROS, Genetic algorithm and Swarm intelligence and anything that tickles my tiny mind**
 
-- How to reach me **neverde616@gmail.com**
+- How to reach me **neverde616@gmail.com** or a light beam probably 
 
 - **As of oct 2025, I have been coding for 7 years and didn't use GitHub for 6.8 years, sorry Linus Torvalds**
 
